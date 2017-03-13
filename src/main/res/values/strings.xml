@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">美团</string>
+
+    <string name="user_default"><u>请点击登录</u></string>
+    <string name="title_activity_regist">title_activity_regist</string>
+    <string name="title_activity_login">title_activity_login</string>
+    <string name="title_activity_users_update">title_activity_users_update</string>
+    <string name="title_activity_update_password">title_activity_update_password</string>
+    <string name="title_activity_goods">title_activity_goods</string>
+    <string name="title_activity_one_goods">title_activity_one_goods</string>
+    <string name="title_activity_orders_detail">title_activity_orders_detail</string>
+    <string name="title_activity_orders">title_activity_orders</string>
+    <string name="title_activity_store">title_activity_store</string>
+    <string name="title_activity_pay">title_activity_pay</string>
+    <string name="title_activity_comment">title_activity_comment</string>
+    <string name="title_activity_change">title_activity_change</string>
+    <string name="title_activity_me">title_activity_me</string>
+    <string name="title_activity_message">title_activity_message</string>
+    <string name="title_activity_search">title_activity_search</string>
+    <string name="title_activity_message_list">title_activity_message_list</string>
+    <string name="title_activity_msg_content">MsgContentActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
